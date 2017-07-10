@@ -1,4 +1,4 @@
 # SampleValueConverters
-Sample code for the blog post at https://blog.verslu.is/xamarin/xamarin-forms-xamarin/implementing-value-converters-with-ivalueconverter-for-xamarin-forms/
+Sample code for the blog post at [my blog](https://blog.verslu.is/xamarin/xamarin-forms-xamarin/implementing-value-converters-with-ivalueconverter-for-xamarin-forms/).
 
-Vlog: youtu.be/wbqvWMe2POY
+And the vlog version [here](https://youtu.be/wbqvWMe2POY).
